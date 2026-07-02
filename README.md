@@ -120,3 +120,20 @@ Crime-Analytics-Dashboard
 ### Excel Dashboard
 
 ![Excel Dashboard](Images/Excel_Dashboard.png)
+
+## 📈 Key Insights
+
+- Crime trends analyzed across multiple years.
+- Identified crime hotspots using geographical analysis.
+- Compared police station performance.
+- Analyzed victim demographics and crime categories.
+- Created interactive Power BI dashboards for business-style reporting.
+- Performed data cleaning and exploratory data analysis using Python.
+- Used SQL queries to extract meaningful insights from raw datasets.
+
+## 🚀 Future Improvements
+
+- Add predictive crime forecasting using Machine Learning.
+- Integrate real-time crime datasets.
+- Deploy the dashboard online using Power BI Service.
+- Build an interactive web dashboard using Streamlit.
